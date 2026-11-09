@@ -1,0 +1,7 @@
+{
+  "pages": [
+    {"path": "index.html", "template": "<h1>{{ title }}</h1><p>{{ summary }}</p>"},
+    {"path": "about.html", "template": "<h2>About {{ lab }}</h2><p>{{ summary }}</p>"}
+  ],
+  "context": {"title": "Vellum", "lab": "Palladium", "summary": "Static pages without a build step."}
+}

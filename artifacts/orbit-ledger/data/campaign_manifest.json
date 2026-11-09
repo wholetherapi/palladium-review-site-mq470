@@ -1,0 +1,6 @@
+{
+  "head": "c1f0a9e7b2d34586a7b0e7a9d2c4f6b8e0a1c3d5e7f90123456789abcdef01234",
+  "entries": [
+    {"kind": "input", "payload": {"dataset": "seismic-2026-01", "bytes": 1843200}, "prev": "0000000000000000000000000000000000000000000000000000000000000000", "recorded_at": "2026-02-01T10:00:00+00:00", "hash": "c1f0a9e7b2d34586a7b0e7a9d2c4f6b8e0a1c3d5e7f90123456789abcdef01234"}
+  ]
+}

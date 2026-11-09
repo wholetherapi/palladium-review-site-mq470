@@ -1,0 +1,5 @@
+[request] ts=2026-02-11T09:00:01Z service=auth status=200 latency=17
+[job] ts=2026-02-11T09:00:02Z queue=ingest state=running attempt=1
+[request] ts=2026-02-11T09:00:03Z service=catalog status=503 latency=412
+[job] ts=2026-02-11T09:00:04Z queue=ingest state=queued attempt=2
+[request] ts=2026-02-11T09:00:05Z service=search status=200 latency=64
