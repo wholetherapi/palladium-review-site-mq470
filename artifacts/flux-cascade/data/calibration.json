@@ -1,0 +1,11 @@
+{
+  "weights": [0.82, -0.41, 0.17, 0.55],
+  "bias": -0.35,
+  "threshold": 0.62,
+  "notes": "Calibrated on held-out split of 4,800 prompts; target escalation rate 12%.",
+  "sweep": [
+    {"threshold": 0.55, "escalation": 0.19, "accuracy": 0.891},
+    {"threshold": 0.62, "escalation": 0.12, "accuracy": 0.884},
+    {"threshold": 0.70, "escalation": 0.07, "accuracy": 0.866}
+  ]
+}
