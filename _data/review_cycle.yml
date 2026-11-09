@@ -1,0 +1,10 @@
+cycle: "2026 Q4 benchmark cover"
+start_date: "2026-09-01"
+end_date: "2026-10-30"
+benchmarks:
+  - ticker: "NVDA"
+    column: "NVDA_close"
+  - ticker: "MSFT"
+    column: "MSFT_close"
+timezone: "US/Eastern"
+note: "One row per US market trading session; both cycle boundaries are inclusive."

@@ -1,0 +1,7 @@
+title: Palladium Compute Lab
+description: Research notes and catalogued work
+baseurl: ""
+markdown: kramdown
+collections:
+  catalog:
+    output: true
