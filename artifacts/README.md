@@ -1,8 +1,7 @@
 # Artifact snapshots
 
-Each directory below holds the working tree of one released artifact. A
-directory appears here only when the code is actually available; planned or
-withdrawn work has no directory.
+Each directory below holds the working tree for one catalogued artifact. The
+directory README is the authoritative statement of its release status.
 
 | directory | contents |
 | --- | --- |
